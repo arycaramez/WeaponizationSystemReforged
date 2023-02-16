@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AM_BowSystemAnimations_topBody
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Joints
+    m_Weight: 0
+  - m_Path: root
+    m_Weight: 1
+  - m_Path: root/pelvis
+    m_Weight: 1
+  - m_Path: root/pelvis/LeftUpLeg
+    m_Weight: 0
+  - m_Path: root/pelvis/LeftUpLeg/LeftLeg
+    m_Weight: 1
+  - m_Path: root/pelvis/LeftUpLeg/LeftLeg/foot.l
+    m_Weight: 1
+  - m_Path: root/pelvis/LeftUpLeg/LeftLeg/foot.l/ball.l
+    m_Weight: 1
+  - m_Path: root/pelvis/LeftUpLeg/LeftLeg/foot.l/ball.l/End.001
+    m_Weight: 1
+  - m_Path: root/pelvis/RightUpLeg
+    m_Weight: 0
+  - m_Path: root/pelvis/RightUpLeg/RightLeg
+    m_Weight: 1
+  - m_Path: root/pelvis/RightUpLeg/RightLeg/foot.r
+    m_Weight: 1
+  - m_Path: root/pelvis/RightUpLeg/RightLeg/foot.r/ball.r
+    m_Weight: 1
+  - m_Path: root/pelvis/RightUpLeg/RightLeg/foot.r/ball.r/End.002
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/ik_weapon.L
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandIndex1
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandIndex1/LeftHandIndex2
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3/LeftHandIndex4
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandMiddle1/LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3/LeftHandMiddle4
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandPinky1
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandPinky1/LeftHandPinky2
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3/LeftHandPinky4
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandRing1
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandRing1/LeftHandRing2
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandRing1/LeftHandRing2/LeftHandRing3
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandRing1/LeftHandRing2/LeftHandRing3/LeftHandRing4
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandThumb1
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandThumb1/LeftHandThumb2
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/hand.l/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3/LeftHandThumb4
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/Neck
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/Neck/Head
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/Neck/Head/End
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/ik_weapon.R
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandIndex1
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandIndex1/RightHandIndex2
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandIndex1/RightHandIndex2/RightHandIndex3
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandIndex1/RightHandIndex2/RightHandIndex3/RightHandIndex4
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandMiddle1
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandMiddle1/RightHandMiddle2
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3/RightHandMiddle4
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandPinky1
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandPinky1/RightHandPinky2
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandPinky1/RightHandPinky2/RightHandPinky3
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandPinky1/RightHandPinky2/RightHandPinky3/RightHandPinky4
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandRing1
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandRing1/RightHandRing2
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandRing1/RightHandRing2/RightHandRing3
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandRing1/RightHandRing2/RightHandRing3/RightHandRing4
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandThumb1
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandThumb1/RightHandThumb2
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandThumb1/RightHandThumb2/RightHandThumb3
+    m_Weight: 1
+  - m_Path: root/pelvis/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/hand.r/RightHandThumb1/RightHandThumb2/RightHandThumb3/RightHandThumb4
+    m_Weight: 1
+  - m_Path: Surface
+    m_Weight: 0

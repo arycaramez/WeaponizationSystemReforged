@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0575598aae142b145a15d41462c36e4e, type: 3}
+  m_Name: 0-SimpleBow
+  m_EditorClassIdentifier: 
+  name: Simple Bow
+  description: 
+  representation: {fileID: 0}
+  damage: 5
+  type: 0
+  shotType: 0
+  projectilePrefab: {fileID: 0}
+  prefabHandR: {fileID: 0}
+  prefabHandL: {fileID: 7451553804326054232, guid: 4ea4472c4de85a54cadb601cc2a16325, type: 3}
