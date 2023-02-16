@@ -1,4 +1,4 @@
-# WeaponizationSystemReforged
+# Weaponization System Reforged
 
 > Objetivo:
 - Criação de um sistema que permite o personagem gerenciar o uso de armas e equipamentos de forma dinâmica, podendo equipar desequipar armas e ferramentas em geral.
