@@ -12,15 +12,20 @@ e optei pelo nome atual.
 - Em desenvolvimento.
 
 > Mecânicas concluídas:
-- Controle de câmera orbital em terceira pessoa (script "ThirdPersonCamera.cs", conteúdo opcional).
-- Cinemática inversa para direcionar o corpo de personagem a uma posição alvo (script "AimWeaponIK.cs", conteúdo principal).
+- Controle de câmera orbital em terceira pessoa (script "ThirdPersonCamera.cs").
+- Cinemática inversa para inclinar o corpo do personagem a uma posição alvo quando fir mirar com uma arma de longo alcance (script "AimWeaponIK.cs", conteúdo principal). Essa mecânica pode ser usada em personagens com IA.
 
 > Mecânicas em desenvolvimento:
 - Sistema de gerenciamento de instancias de armas (script "WeaponEquippingSystem", conteúdo principal).
 - Sistema de controlde do instanciamento de armas, armazena os slots de armas do personagem (script "?").
 - Sistema de controlde do personagem (script "CharacterMovement", conteúdo opcional).
 
+> Conteúdo opcional:
+- Animações de movimentação de personagem.
+- Câmera em terceira pessoa.
+- Controle de movimento do personagem.
+
 > Modo de uso:
-- ???
+- ??? (será incluído a medida que o projeto for sendo desenvolvido).
 
 ##### Espero que tenha gostado dessa minha iniciativa, sendo melhor 1% todos os dias.
