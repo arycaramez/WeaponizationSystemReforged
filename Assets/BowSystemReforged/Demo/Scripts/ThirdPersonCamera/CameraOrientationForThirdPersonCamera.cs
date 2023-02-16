@@ -4,7 +4,7 @@ namespace WeaponizationSystemReforged.Demo.ThirdPersonCamera
 {
     public class CameraOrientationForThirdPersonCamera : MonoBehaviour, ICameraOrientationForThirdPersonCamera
     {
-        [SerializeField] private Vector3 targetOffset = new Vector3(1f, 1f, 2f);
+        [SerializeField] private Vector3 targetOffset = new Vector3(0.47f, 1f, 0.26f);
 
         public Quaternion GetCameraLookAtTargetPoint(Transform anchor, Transform cameraTransform)
         {
